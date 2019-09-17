@@ -36,3 +36,7 @@ Communication and understanding has never been easier than with Easy Care!
 - slide 3c: ...and providing both you and your doctors with the information you need, when you need it.
 
 Link to EasyCare app prototype: https://www.figma.com/proto/WKTkuRzL21cTZsQzOknYv7/Untitled?node-id=3%3A24&scaling=scale-down
+
+
+Team name: Easy Care 1.1
+Team members: Tim Granström, Magdalena Larsson, Julia Hammar
