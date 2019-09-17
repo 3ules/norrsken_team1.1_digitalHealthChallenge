@@ -25,4 +25,5 @@ The EasyCare app provides you with tools to:
 2. Suggested medical terms for symptoms for you to review and edit, including intensity and duration of symptoms.
 3. A powerful summary for you and your doctor to use as a tool for the appointment. 
 
-Through the app, both you and your doctor will
+Communication and understanding has never been easier than with Easy Care!
+
