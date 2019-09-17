@@ -15,3 +15,8 @@ Easy care is a helath care communicaton app for the patient and the doctor
 - our chat will help you define your symptoms in medical terms,
 - so both you and your doctor can focus on finding solutions, 
 - instead of trying to reach each other through complicated words and definitions during your appointment.
+
+The app enables/provides both you and your doctor with an overview of your symptoms, 
+expressed in medical terms extracted from your words, and through easy to read diagrams both your and yur doctor's priotities becomes clear. 
+
+Through the app, both you and your doctor will
