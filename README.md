@@ -27,3 +27,10 @@ The EasyCare app provides you with tools to:
 
 Communication and understanding has never been easier than with Easy Care!
 
+-------------------------
+
+slide 1: Fact: Digital healthcare is changing how we communicate about symptoms and illnesses.
+slide 2: Problem: It can be difficult to convey your symptoms the way you experience them in text online.
+slide 2: Solution: The Easy Care communication app for doctors and patients is here to help.
+slide 3: ...Bridging the gap between free text and medical terms, 
+slide 4: ...and providing both you and your doctors with the information you need, when you need it.
