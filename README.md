@@ -20,4 +20,9 @@ The app enables/provides both you and your doctor with an overview of your sympt
 now expressed in medical terms extracted automatically from your words.
 And through easy to read diagrams both your and your doctor's focuses priotities becomes clear. 
 
+The EasyCare app provides you with tools to:
+1. In free text write about the symptoms you are experiencing
+2. Suggested medical terms for symptoms for you to review and edit, including intensity and duration of symptoms.
+3. A powerful summary for you and your doctor to use as a tool for the appointment. 
+
 Through the app, both you and your doctor will
