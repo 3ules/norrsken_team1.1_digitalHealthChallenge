@@ -7,6 +7,6 @@ Norrsken hackathon 2019, challenge: Digital Health
 - Easy Care provides the solution!
 
 - Through state of the art AI and Machine Learning and colorful visualizations, 
-- our chat will help you find the right words for what you feel, 
+- our chat will help you find the right words for your symptoms, 
 - so both you and your doctor can focus on finding solutions, 
 - instead of trying to reach each other through complicated words and definitions during your appointment.
