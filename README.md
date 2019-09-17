@@ -17,6 +17,7 @@ Easy care is a helath care communicaton app for the patient and the doctor
 - instead of trying to reach each other through complicated words and definitions during your appointment.
 
 The app enables/provides both you and your doctor with an overview of your symptoms, 
-expressed in medical terms extracted from your words, and through easy to read diagrams both your and yur doctor's priotities becomes clear. 
+now expressed in medical terms extracted automatically from your words.
+And through easy to read diagrams both your and your doctor's focuses priotities becomes clear. 
 
 Through the app, both you and your doctor will
