@@ -34,3 +34,5 @@ Communication and understanding has never been easier than with Easy Care!
 - slide 3: Solution: The Easy Care communication app for doctors and patients is here to help.
 - slide 3b: ...Bridging the gap between free text and medical terms, 
 - slide 3c: ...and providing both you and your doctors with the information you need, when you need it.
+
+Link to EasyCare app prototype: https://www.figma.com/proto/WKTkuRzL21cTZsQzOknYv7/Untitled?node-id=20%3A423&scaling=scale-down
